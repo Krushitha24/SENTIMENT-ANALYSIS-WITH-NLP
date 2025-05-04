@@ -19,3 +19,5 @@
 # After checking the emotions of all the reviews, we use graphs and charts to show the results. For instance, we can make a pie chart to see how many reviews are positive, negative, or neutral. We can also look at changes over time to see if customers were happier or less happy during certain months.
 
 # In the end, the project gives us useful information about what customers think. If many people are saying good things, that’s a good sign. If there are lots of bad reviews during a certain time, the company can look into what went wrong. Overall, this project helps businesses understand their customers better and make improvements where needed. It saves time and gives a clear picture of customer opinions by using smart tools and simple analysis.
+
+![Image](https://github.com/user-attachments/assets/b58cc6dc-7782-4c3d-a846-88b3dd8cc6e3)
